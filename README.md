@@ -1,5 +1,5 @@
 
-# Video walkthrough : https://drive.google.com/file/d/1I24c2EidtkmzxEx8C5hcQMJEM6z4yZli/view?usp=sharing
+Video walkthrough : https://drive.google.com/file/d/1I24c2EidtkmzxEx8C5hcQMJEM6z4yZli/view?usp=sharing
 
 # PROJECT NAME: BK Queuing System
 
