@@ -1,4 +1,3 @@
-# Final-Jan-April-2022
 
 # PROJECT NAME: BK Queuing System
 
