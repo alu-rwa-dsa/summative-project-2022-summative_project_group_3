@@ -45,20 +45,20 @@ What distinguishes this BK Queuing system from others is that customers will no 
 
 
 Step 1: Install Python and Pip
-   First update the local APT repository
-	sudo apt-get update && sudo apt-get -y upgrade
-  
-  Install Python3
-  sudo apt-get install python3
+	   First update the local APT repository
+		sudo apt-get update && sudo apt-get -y upgrade
 
-  Verify the successful installation of Python3
-  python3 -V
+	  Install Python3
+	  sudo apt-get install python3
 
-  Installing pip
-  sudo apt-get install -y python3-pip
+	  Verify the successful installation of Python3
+	  python3 -V
 
-  Verifying the installation of Pip
-  pip3 -V
+	  Installing pip
+	  sudo apt-get install -y python3-pip
+
+	  Verifying the installation of Pip
+	  pip3 -V
 
 Step 2: Install a virtual environment
 
