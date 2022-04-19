@@ -1,4 +1,6 @@
 
+# Video walkthrough : https://drive.google.com/file/d/1I24c2EidtkmzxEx8C5hcQMJEM6z4yZli/view?usp=sharing
+
 # PROJECT NAME: BK Queuing System
 
 BK Queuing System is a Django-based web application that aims to improve on the current physical queuing system by replacing it with a more efficient virtual queuing system. BK clients will be able to reserve a slot in the queue for a specific service, as well as update and delete the reservation, using this queuing system. They will also be able to view queues at different BK branches.
