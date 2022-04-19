@@ -1,5 +1,5 @@
 
-Video walkthrough : https://drive.google.com/file/d/1I24c2EidtkmzxEx8C5hcQMJEM6z4yZli/view?usp=sharing
+
 
 # PROJECT NAME: BK Queuing System
 
@@ -7,6 +7,7 @@ BK Queuing System is a Django-based web application that aims to improve on the 
 
 What distinguishes this BK Queuing system from others is that customers will no longer have to wait in line at the bank for their turn to be served; instead, they will be able to track, delete, and update their reservations directly from their smartphones.
 
+Video walkthrough : https://drive.google.com/file/d/1I24c2EidtkmzxEx8C5hcQMJEM6z4yZli/view?usp=sharing
 
 # Beneficiary
   1.Bank
