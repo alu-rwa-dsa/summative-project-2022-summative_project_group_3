@@ -71,20 +71,20 @@ Step 2: Install a virtual environment
 
 Step 3: Install Django
 
-  Navigate to the project’s directory
-  Use cd <directoryName> to navigate to the directory
+	  Navigate to the project’s directory
+	  Use cd <directoryName> to navigate to the directory
 
-  Create virtual environment
-  virtualenv <virtual environment name>
+	  Create virtual environment
+	  virtualenv <virtual environment name>
 
-  Activate the virtual environment
-  . <virtual environment name>/bin/activate
+	  Activate the virtual environment
+	  . <virtual environment name>/bin/activate
 
-  Install django
-  pip install django
+	  Install django
+	  pip install django
 
-  Verify that django installation
-  django-admin --version
+	  Verify that django installation
+	  django-admin --version
 
 Step 4: Install project dependencies and other python packages
     Install environ
